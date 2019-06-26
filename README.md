@@ -14,6 +14,13 @@ In de eerste periode ga je aan de slag met [Golang](https://golang.org/). Je kun
 
 > P.S. Je kunt al programmeren in GO zonder enkele installatie op je device! Ga naar de [GO Playground](https://play.golang.org/) en begin snel!
 
+## Apps
+
+Er zijn ook apps die je kunt installeren om te beginnen te leren programmeren:
+
+- [Grasshopper](https://play.google.com/store/apps/details?id=com.area120.grasshopper&hl=en) (android)
+- [Grasshopper](https://apps.apple.com/us/app/id1354133284) (iOS)
+
 ## Contact
 
 Vragen of opmerkingen? Je kunt altijd een [issue](https://github.com/che-ict/summer-school/issues) aanmaken, of stuur een e-mail naar bfmulder@che.nl.
