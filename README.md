@@ -14,6 +14,12 @@ In de eerste periode ga je aan de slag met [Golang](https://golang.org/). Je kun
 
 > P.S. Je kunt al programmeren in GO zonder enkele installatie op je device! Ga naar de [GO Playground](https://play.golang.org/) en begin snel!
 
+## Programma's
+
+Programma's die je kunt kopen/downloaden:
+
+- [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) (beschikbaar op desktop en mobiele devices)
+
 ## Apps
 
 Er zijn ook apps die je kunt installeren om te beginnen te leren programmeren:
