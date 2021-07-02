@@ -1,31 +1,42 @@
 # CHE HBO-ICT - Summer School
 
-Begin je na de zomer met je opleiding HBO-ICT op de CHE in Ede? Hier vind je enkele resources om je voor te bereiden!
+Begin je na de zomer met je opleiding HBO-ICT op de CHE in Ede? Hier vind je een aantal interessante links om je voor te bereiden!
 
-## Programmeren - het principe
+## Overzicht
+
+- [Level 1 - Het principe](#level-1---het-principe)
+- [Level 2 - Databases](#level-2---databases)
+- [Level 3 - Golang](#level-3---golang)
+- [Tips](#tips)
+- [Contact](#contact)
+
+## Level 1 - Het principe
 
 Als je het principe van programmeren wilt leren is 'Hour of Code' van [Code.org](https://code.org/) een goed begin. [Hier](https://code.org/hourofcode/overview) maak je je [eerste app](https://studio.code.org/s/applab-intro/reset), of bouw je je eigen [Flappy Bird](http://studio.code.org/s/flappy/reset).
 
-## Video course over Golang
+Het ziet er misschien wat kinderachtig uit, maar het dit zijn twee hele mooie voorbeelden die het principe van programmeren laten zien!
 
-In de eerste periode ga je aan de slag met [Golang](https://golang.org/). Je kunt zelf al met deze programmeertaal aan de slag met de volgende digitale courses van Udemy:
+## Level 2 - Databases
 
-- [Learn How to Code: Google's Go (golang) Programming Language](https://www.udemy.com/learn-how-to-code/learn/lecture/11922082#overview)
+Tijdens het eerste semester - in blok 1 - ga je aan de slag met databases. Je leert hoe je informatie effectief opslaat in 'tabellen', en hoe je met de taal 'SQL' specifieke informatie uit de tabellen kunt ophalen.
 
-> P.S. Je kunt al programmeren in GO zonder enkele installatie op je device! Ga naar de [GO Playground](https://play.golang.org/) en begin snel!
+Op W3Schools vind je [tutorials](https://www.w3schools.com/mysql/default.asp), met daarbij [oefeningen](https://www.w3schools.com/mysql/mysql_exercises.asp) die je kunt doen.
 
-## Programma's
+Ga je voor het echte werk met MySQL? Hier vind je een uitgebreide tutorial op YouTube: https://www.youtube.com/watch?v=7S_tz1z_5bA
 
-Programma's die je kunt kopen/downloaden:
+## Level 3 - Golang
 
-- [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) (beschikbaar op desktop en mobiele devices)
+Tijdens het eerste semester ga je aan de slag met de programmeertaal [Golang](https://golang.org/). Je kunt zelf al met deze programmeertaal aan de slag met de volgende digitale courses van Udemy:
 
-## Apps
+- [Learn How to Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code/)
 
-Er zijn ook apps die je kunt installeren om te beginnen te leren programmeren:
+> P.S. Je kunt al programmeren in GO zonder installatie op je laptop! Ga naar de [GO Playground](https://play.golang.org/) en je kunt gelijk beginnen!
 
-- [Grasshopper](https://play.google.com/store/apps/details?id=com.area120.grasshopper&hl=en) (android)
-- [Grasshopper](https://apps.apple.com/us/app/id1354133284) (iOS)
+## Tips
+
+- [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) - Betaald, beschikbaar op desktop en mobiele devices.
+- [Grasshopper](https://play.google.com/store/apps/details?id=com.area120.grasshopper&hl=en) - Gratis android app
+- [Grasshopper](https://apps.apple.com/us/app/id1354133284) - Gratis iOS app
 
 ## Contact
 
