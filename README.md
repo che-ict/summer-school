@@ -40,4 +40,4 @@ Tijdens het eerste semester ga je aan de slag met de programmeertaal [Golang](ht
 
 ## Contact
 
-Vragen of opmerkingen? Je kunt altijd een [issue](https://github.com/che-ict/summer-school/issues) aanmaken, of stuur een e-mail naar bfmulder@che.nl.
+Vragen of opmerkingen? Je kunt altijd een [issue](https://github.com/che-ict/summer-school/issues) aanmaken, of stuur een e-mail naar djdoorn@che.nl.
